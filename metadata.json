@@ -1,0 +1,6 @@
+{
+  "name": "DMR Machine Learning System",
+  "description": "DMR Excavator Academy - Interactive mobile-first digital learning experience dedicated to hydraulic excavator training by DMR Earthmoving Training Specialists (Zimbabwe).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
